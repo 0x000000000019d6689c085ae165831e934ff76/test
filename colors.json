@@ -1,0 +1,128 @@
+{
+  "color": {
+    "light": {
+      "orange": {
+        "value": "#f7931aff",
+        "type": "color"
+      },
+      "red": {
+        "value": "#eb5757ff",
+        "type": "color"
+      },
+      "green": {
+        "value": "#27ae60ff",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#2d9cdbff",
+        "type": "color"
+      },
+      "purple": {
+        "value": "#bb6bd9ff",
+        "type": "color"
+      },
+      "foreground": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "neutral-8-40-cc-": {
+        "value": "#404040ff",
+        "type": "color"
+      },
+      "neutral-7-77-176-": {
+        "value": "#777777ff",
+        "type": "color"
+      },
+      "neutral-6-99-148-": {
+        "value": "#999999ff",
+        "type": "color"
+      },
+      "neutral-5-bb-120-": {
+        "value": "#bbbbbbff",
+        "type": "color"
+      },
+      "neutral-4-de-92-": {
+        "value": "#dededeff",
+        "type": "color"
+      },
+      "neutral-3-ed-64-": {
+        "value": "#edededff",
+        "type": "color"
+      },
+      "neutral-2-f4-45-": {
+        "value": "#f4f4f4ff",
+        "type": "color"
+      },
+      "neutral-1-f8-26-": {
+        "value": "#f8f8f8ff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    },
+    "dark": {
+      "foreground": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "neutral-8-40-cc-": {
+        "value": "#ccccccff",
+        "type": "color"
+      },
+      "neutral-7-77-176-": {
+        "value": "#b0b0b0ff",
+        "type": "color"
+      },
+      "neutral-6-99-148-": {
+        "value": "#949494ff",
+        "type": "color"
+      },
+      "neutral-5-bb-120-": {
+        "value": "#787878ff",
+        "type": "color"
+      },
+      "neutral-4-de-92-": {
+        "value": "#5c5c5cff",
+        "type": "color"
+      },
+      "neutral-3-ed-64-": {
+        "value": "#444444ff",
+        "type": "color"
+      },
+      "neutral-2-f4-45-": {
+        "value": "#2d2d2dff",
+        "type": "color"
+      },
+      "neutral-1-f8-26-": {
+        "value": "#1a1a1aff",
+        "type": "color"
+      },
+      "background": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "purple": {
+        "value": "#c075dcff",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#3ca3deff",
+        "type": "color"
+      },
+      "green": {
+        "value": "#36b46bff",
+        "type": "color"
+      },
+      "red": {
+        "value": "#ec6363ff",
+        "type": "color"
+      },
+      "orange": {
+        "value": "#f89b2aff",
+        "type": "color"
+      }
+    }
+  }
+}
